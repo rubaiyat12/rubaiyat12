@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **JAVA SCRIPT,HTML,CSS3,BOOTSTRAP,TAILWIND CSS,REACT,FIREBASE**
+- 💬 Ask me about **Java Script,HTML,CSS3,BOOTSTRAP,TAILWIND CSS,React,Firebase**
 
 - 📫 How to reach me **rubaiyatraha@gmail.com**
 
